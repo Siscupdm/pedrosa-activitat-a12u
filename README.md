@@ -83,5 +83,5 @@ Copiar
 Editar
 git push origin main
 Verifica en GitHub:
-
-Abre tu navegador y revisa que los cambios hayan sido actualizados en el repositorio remoto.
+###
+    Abre tu navegador y revisa que los cambios hayan sido actualizados en el repositorio remoto.
