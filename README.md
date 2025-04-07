@@ -11,7 +11,8 @@ Cuenta activa en GitHub
 
 Acceso a internet
 
-📝 Pasos de la actividad:
+###
+    Pasos de la actividad:
 Clonar un repositorio existente desde GitHub:
 
 Abre Git Bash.
