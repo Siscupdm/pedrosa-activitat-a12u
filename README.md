@@ -5,7 +5,9 @@ Repasar y reforzar el uso de Git y GitHub desde Visual Studio Code y la terminal
      Herramientas necesarias:
 Visual Studio Code instalado
 
-Git Bash instalado
+Git Bash instalado 
+[INSTALAR GIT BASH](https://www.youtube.com/watch?v=HGg4a9bFNIk)
+
 
 Cuenta activa en GitHub
 
@@ -69,8 +71,8 @@ Copiar
 Editar
 git commit -m "Descripción clara del cambio realizado"
 Enviar los cambios al repositorio remoto en GitHub:
-
-Asegúrate de estar en la rama principal (por ejemplo, main):
+###
+    Asegúrate de estar en la rama principal (por ejemplo, main):
 
 bash
 Copiar
