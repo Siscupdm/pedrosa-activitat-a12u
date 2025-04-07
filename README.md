@@ -16,7 +16,7 @@ Acceso a internet
 Clonar un repositorio existente desde GitHub:
 
 
-![Abre Git Bash](C:\Users\siscu\Downloads\M8SMX_UF5_AC3_AX1\foto.jpg)
+![Abre Git Bash](C:\projectes\pedrosa-activitat-a12u)
 
 
 Usa el comando:
