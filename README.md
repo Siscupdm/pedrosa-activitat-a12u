@@ -16,6 +16,8 @@ Acceso a internet
 Clonar un repositorio existente desde GitHub:
 
 Abre Git Bash.
+!(C:\Users\siscu\Downloads\M8SMX_UF5_AC3_AX1\How-to-Get-Started-with-Git-Bash-on-Windows.jpg)
+
 
 Usa el comando:
 
