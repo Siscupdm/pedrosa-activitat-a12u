@@ -39,7 +39,8 @@ Editar
 code .
 Esto abrirá el repositorio en VS Code.
 
-Realizar cambios en el código:
+###
+    Realizar cambios en el código:
 
 Edita uno o más archivos dentro del repositorio (puede ser un archivo README.md o un archivo .html/.js/.py, etc.).
 
