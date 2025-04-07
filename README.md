@@ -47,8 +47,8 @@ Edita uno o más archivos dentro del repositorio (puede ser un archivo README.md
 Guarda los cambios.
 
 Registrar los cambios con Git:
-
-En Git Bash, verifica los archivos modificados:
+###
+    En Git Bash, verifica los archivos modificados:
 
 bash
 Copiar
